@@ -1,0 +1,37 @@
+.titulo{
+    width: 204px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+   }
+   .superior-izquierda{
+    float: left;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+   }
+   .superior-derecha{
+    display: inline-block; 
+    border-style: solid;
+    border-width: 2px;
+    border-color: orange;
+   }
+   .row{
+    float:left;
+   }
+   .texto{
+    display: inline-block;
+    padding: 17.9px; 
+    width: 200px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+   
+   }
+   .inferior{
+    width: 444px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: green;
+   }
+   
